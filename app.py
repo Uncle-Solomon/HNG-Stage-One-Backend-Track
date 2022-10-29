@@ -13,7 +13,6 @@ def anApi():
             "age" : 20,
             "bio": "A Nigerian Prince trying to find his way in the tech industry."
 		}
-
 		return jsonify(data)
 
 if __name__=='__main__':
